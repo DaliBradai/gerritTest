@@ -9,6 +9,7 @@ public class Main {
 		Serveur.create();
 		System.out.println("rabbi ysahhal");
 		System.out.println("emin");
+		System.out.println("bien");
 		
 	}
 
