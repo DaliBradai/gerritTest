@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("rabbi ysahhal");
 		System.out.println("emin");
 		System.out.println("bien");
+		System.out.println("bien");
 		
 	}
 
